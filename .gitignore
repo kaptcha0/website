@@ -22,7 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
-.obsidian
+.obsidian/
+.direnv/
 
 # wrangler files
 .wrangler
