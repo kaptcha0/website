@@ -3,7 +3,14 @@
   "name": "website",
   "compatibility_date": "2026-05-06",
   "observability": {
-    "enabled": true
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": true
+    }
   },
   "main": "dist/_worker.js/index.js",
   "compatibility_flags": [
