@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@kaptcha.cc
+Expires: 2027-01-01T04:59:00.000Z
+Encryption: https://kaptcha.cc/.well-known/pgp-key.txt
+Preferred-Languages: en, fr
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzXLBqWXM5f2YFhZTu8ZQOgLhPJIFAmn+oo4ACgkQu8ZQOgLh
+PJLHEQ//aI5zuUv0E+C0i52wlOEntQfaLTQgzzVAqP1OPwBWRRdb6hcxhFl1ifEA
+rcK8z7oFgwEXP40Cb+gHSf+oVUIrMmhveVdUo1yW3X0nGMJkcf9ZLDSVAD4n6s3/
+Xl7iGK3ue2T5Okry5ABj4JLRE70TYi0uNsqjL++BTA8LzNyLamoqtRQaHvoms2oj
+Pm3128u54DsQJOeixA4/aupK48cWFuASL28qBGycVYimUOgGYudFmCw4yytM6z+2
+RDwTumQy2do0qXeJy5dvT0bcRJG1PjtLqYQy2ZS5fyXj7bgkKfI4hZdUM4U0rt0G
+1rVPS/DvagyZq+wiwndKEDco2bFbqA5oqw+P+4d8dxxa9zKIObhTsqRe8YqGJOJY
+8LfavWi5RRoc9C874XOqXfGKT//oElCNISYjHgrzfff6W771QhH5PTAfmLRqs3wp
+FHD5Ea2kOBDdehG1gj16GdwJHBXXwdFthU4mrmjR3eC2eilFiTQqqwlEN27L4Cec
+CgaCSsbwihtzfYa8WdjsAzu0tejgSHA5fPSH5jBD2miDzejAKPIlXiBMasHK9zZs
+GX/B8EhEfidV3JlTeoIwMYy8XbNW5HLLIRai0OxkCC+xSfxrQVZ53YrlRiL7H4IB
+ombgxsXwmMWAYzuukbHxEQIYGh5B1ECKGcr6ZoD+Pjv0CS0WQaQ=
+=19zQ
+-----END PGP SIGNATURE-----
