@@ -1,6 +1,6 @@
 {
-	"name": "kaptcha_",
-	"short_name": "kaptcha_",
+	"name": "kaptcha",
+	"short_name": "kaptcha",
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",
