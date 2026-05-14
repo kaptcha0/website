@@ -37,8 +37,8 @@ importers:
         version: 6.0.3
     devDependencies:
       '@iconify-json/lucide':
-        specifier: ^1.2.106
-        version: 1.2.106
+        specifier: ^1.2.107
+        version: 1.2.107
       '@iconify/svelte':
         specifier: ^5.2.1
         version: 5.2.1(svelte@5.55.5(@typescript-eslint/types@8.58.1))
@@ -848,8 +848,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@iconify-json/lucide@1.2.106':
-    resolution: {integrity: sha512-5nuejHR29A0iQjvLZRRPtuMyj1DA9pzcDMuHD4vmhG7GgLen8haMKiZcZ1IpKVZDwR8wxfcbCv9MsoWHBBAa+g==}
+  '@iconify-json/lucide@1.2.107':
+    resolution: {integrity: sha512-Q4JmCICVwHqaGhB3ugDFdb4uGXuU/o8OJrJuo1YjeZhGeT3jX5fc//7qMNsCb10VuL2PVDM/CkaqO9chnmI3gg==}
 
   '@iconify/svelte@5.2.1':
     resolution: {integrity: sha512-zHmsIPmnIhGd5gc95bNN5FL+GifwMZv7M2rlZEpa7IXYGFJm/XGHdWf6PWQa6OBoC+R69WyiPO9NAj5wjfjbow==}
@@ -3324,7 +3324,7 @@ snapshots:
   '@esbuild/win32-x64@0.27.7':
     optional: true
 
-  '@iconify-json/lucide@1.2.106':
+  '@iconify-json/lucide@1.2.107':
     dependencies:
       '@iconify/types': 2.0.0
 
