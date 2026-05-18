@@ -1,7 +1,7 @@
 ---
 title: A VPN Saved My Network
 subtitle: How having a remote access can help resolve issues
-description:
+description: ""
 published: true
 date: 2026-05-18
 tags:
