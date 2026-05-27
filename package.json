@@ -13,7 +13,7 @@
   "dependencies": {
     "@astrojs/cloudflare": "^13.5.2",
     "@astrojs/mdx": "^5.0.6",
-    "@astrojs/svelte": "^8.1.1",
+    "@astrojs/svelte": "^8.1.2",
     "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.3.5",
     "astro-icon": "^1.1.5",
