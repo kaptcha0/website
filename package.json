@@ -15,7 +15,7 @@
     "@astrojs/mdx": "^5.0.6",
     "@astrojs/svelte": "^8.1.2",
     "@tailwindcss/vite": "^4.3.3",
-    "astro": "^6.4.8",
+    "astro": "^7.2.8",
     "astro-icon": "^1.2.0",
     "svelte": "^5.57.1",
     "tailwindcss": "^4.3.3",
