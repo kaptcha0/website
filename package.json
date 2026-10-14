@@ -22,7 +22,7 @@
     "typescript": "^6.0.3"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.135",
+    "@iconify-json/lucide": "^1.2.142",
     "@iconify/svelte": "^5.2.2",
     "@tailwindcss/typography": "^0.5.20",
     "wrangler": "^4.136.1"
